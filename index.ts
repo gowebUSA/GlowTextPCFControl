@@ -8,7 +8,7 @@ export class GlowTextPCFControl implements ComponentFramework.StandardControl<II
      * Empty constructor.
      */
     // constructor()
-    // { 
+    // {
 
     // }
 
